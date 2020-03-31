@@ -1,5 +1,6 @@
 venv
 .vscode
+.ipynb_checkpoints
 
 # Saved files
 *.pkl
