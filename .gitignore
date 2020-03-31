@@ -1,1 +1,7 @@
 venv
+.vscode
+
+# Saved files
+*.pkl
+*.mat
+running-a-simulation/*.csv
