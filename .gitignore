@@ -1,3 +1,4 @@
+env
 venv
 .vscode
 .ipynb_checkpoints
@@ -5,4 +6,4 @@ venv
 # Saved files
 *.pkl
 *.mat
-running-a-simulation/*.csv
+*.csv

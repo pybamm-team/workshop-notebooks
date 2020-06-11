@@ -1,3 +1,3 @@
 # Workshop notebooks
 
-Notebooks for the pybamm workshop
+This repository contains the notebooks used in PyBaMM workshops
