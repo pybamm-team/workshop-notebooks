@@ -10,4 +10,4 @@ These notebooks can be downloaded and used locally by running
 ```
 $ jupyter notebook
 ```
-from your local PyBaMM repository or used online through [Google Colab](https://colab.research.google.com/github/pybamm-team/workshop-notebooks/blob/master/). Note, when running via Google Colab you will need to add the line `%pip install pybamm==version` (specifying the correct version) at the start of the notebook to install PyBaMM in the notebook. Alternatively, you can simply copy/paste the relevant code.
+from your local PyBaMM repository or used online through [Google Colab](https://colab.research.google.com/github/pybamm-team/workshop-notebooks/blob/master/). Note, when running via Google Colab you will need to add the line `%pip install pybamm==version` (specifying the correct version) at the start of the notebook to install PyBaMM in the notebook. Alternatively, you can simply copy/paste the relevant code into a local notebook.
