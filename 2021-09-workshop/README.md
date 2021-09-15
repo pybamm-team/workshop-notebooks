@@ -10,5 +10,5 @@ Notebooks from the PyBaMM Workshop held from 27/09/2021 to 01/10/2021
 
 These notebook are designed to work with PyBaMM version 21.08, which can be installed using the command
 ```bash
-pip install pybamm==21.08
+pip install pybamm==21.8.post1
 ```
